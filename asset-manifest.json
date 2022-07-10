@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactThreeCar/static/css/main.ff9ba0a8.css",
-    "main.js": "/ReactThreeCar/static/js/main.d6e2c947.js",
+    "main.js": "/ReactThreeCar/static/js/main.71a5a819.js",
     "index.html": "/ReactThreeCar/index.html",
     "main.ff9ba0a8.css.map": "/ReactThreeCar/static/css/main.ff9ba0a8.css.map",
-    "main.d6e2c947.js.map": "/ReactThreeCar/static/js/main.d6e2c947.js.map"
+    "main.71a5a819.js.map": "/ReactThreeCar/static/js/main.71a5a819.js.map"
   },
   "entrypoints": [
     "static/css/main.ff9ba0a8.css",
-    "static/js/main.d6e2c947.js"
+    "static/js/main.71a5a819.js"
   ]
 }
